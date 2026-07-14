@@ -43,3 +43,14 @@ The system shall authenticate users using secure login credentials.
 The system shall restrict document access to the authenticated owner.
 
 The system shall support user logout.
+
+## 5. Core Data Entities
+
+The system needs to persist the following core business entities:
+
+1. User accounts
+2. Document metadata and processing status
+3. Document chunks used for retrieval
+4. Chat sessions
+5. User and assistant messages
+6. Source references associated with generated answers
