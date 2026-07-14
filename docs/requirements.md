@@ -31,3 +31,15 @@ This project addresses that problem by combining semantic retrieval with a Large
 11. The system generates an answer grounded in retrieved document content.
 12. The user reviews previous questions and answers.
 13. The user logs out.
+
+## 4. Functional Requirements
+
+### 4.1 Authentication
+
+The system shall allow users to register using an email address and password.
+
+The system shall authenticate users using secure login credentials.
+
+The system shall restrict document access to the authenticated owner.
+
+The system shall support user logout.
