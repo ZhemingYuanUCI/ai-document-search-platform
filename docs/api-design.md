@@ -38,3 +38,12 @@ Authenticates a user and returns an access token.
     "password": "your_password"
 }
 ```
+
+#### Response
+
+```json
+{
+    "access_token": "jwt_token",
+    "token_type": "bearer"
+}
+```
