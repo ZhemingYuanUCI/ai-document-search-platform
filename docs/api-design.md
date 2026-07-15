@@ -37,3 +37,4 @@ Authenticates a user and returns an access token.
     "email": "user@example.com",
     "password": "your_password"
 }
+```
